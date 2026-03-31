@@ -1,8 +1,4 @@
-# crop-recommendation-project
-Crop Recommendation – Descriptive and Predictive Analytics
-
-# Crop Recommendation System
-
+# Crop Recommendation System – Descriptive and Predictive Analytics
 Machine Learning project built in DataCamp DataLab to recommend optimal crops based on soil and weather conditions.
 
 ## Features
